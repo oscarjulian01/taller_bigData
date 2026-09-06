@@ -7,10 +7,10 @@ Seleccionamos este dataset debido a nuestro gran interés en el acondicionamient
 
 ## 📂 Estructura del Proyecto
 
-El repositorio está dividido en dos carpetas principales para mantener el código ordenado y separado:
+El repositorio está dividido en dos ficheros principales para mantener el código ordenado y separado:
 
 *   `/etapa2_3`: Contiene todo el código las primeras etapas: Elección del dataset y fundamentos, Exploración del dataset con Pandas, Descubrimientos con Pandas.
-*   `/etapa4_5_6`: Contiene: Analítica descriptiva y diagnóstica, Analítica predictiva y prescriptiva, MongoDB: carga y consultasI.
+*   `/etapa4_5_6`: Contiene: Analítica descriptiva y diagnóstica, Analítica predictiva y prescriptiva, MongoDB: carga y consultas.
 
 ---
 
